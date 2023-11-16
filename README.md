@@ -1,4 +1,6 @@
 # Data-Analytics-of-a-store-in-Excel-with-Interactive-Dashboard
+# Tool used: Microsoft Excel
+# Dataset:https://www.kaggle.com/datasets/anshika2301/vrinda-store-data-analysis?select=Store+Data+Analysis.xlsx
 The objective of this project was to create Annual sales report of a store and to use the insights to grow Sales in the next year.
 In this Project I answered the following questions using the Data givev by the Stake-Holder.
 1.Relation between sales and orders.
